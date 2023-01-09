@@ -32,7 +32,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](/GCD.jpg)
+![gcd of two number](/gcd.jpg)
 
 
 ## Result:
