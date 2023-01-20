@@ -5,7 +5,7 @@ To write a program to find the GCD of two numbers using function.
 
 ## Equipments Required:
 1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+2. Anaconda – Python 3.7 Installation / Moodle-Code  Runner
 
 ## Algorithm
 1. Define a function.
@@ -14,8 +14,8 @@ To write a program to find the GCD of two numbers using function.
 4. Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
-``` py
-/*
+```  py
+
 Program to find the gcd of two number using function.
 Developed by : C Saravanan 
 Registered Number : 22008175
@@ -29,6 +29,8 @@ def gcd():
         if n1%i==0 and n2%i==0:
             gcd=i
     print("GCD of two numbers is:",gcd)
+
+
 ```
 
 ## Output:
